@@ -1,0 +1,6 @@
+.rbc-calendar {
+  display: inline-flex !important;
+  height: 300px !important;
+  margin: 10px;
+  max-width: 500px;
+}
